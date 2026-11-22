@@ -12,6 +12,11 @@ I focus on **security operations and threat detection**: collecting logs, writin
 **[ELK SOC Detection Lab](https://github.com/blackswanunagi/elk-soc-detection-lab-PFA)**
 ELK-based SIEM lab built during my SOC internship: Winlogbeat + Sysmon collection, **33 ES|QL/KQL detection rules mapped to MITRE ATT&CK**, attack simulation from Kali Linux, and a Python alerting script that scores events to filter false positives.
 
+### 📂 Other projects
+
+- **[Web Application Security Labs](https://github.com/blackswanunagi/web-app-security-labs)** — broken access control (IDOR, unprotected admin panel), file upload, XSS, LFI and command injection: exploitation in authorised labs, root cause, server-side fixes and regression tests.
+- **[LSB Steganography & Steganalysis](https://github.com/blackswanunagi/lsb-steganography-steganalysis)** — Python tools to hide text in images and detect LSB embedding in images and audio.
+
 ### 🧰 Tools I work with
 
 | Area | Tools |
