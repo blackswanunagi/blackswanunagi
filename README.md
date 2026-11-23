@@ -15,7 +15,9 @@ ELK-based SIEM lab built during my SOC internship: Winlogbeat + Sysmon collectio
 ### 📂 Other projects
 
 - **[pfSense + Suricata Network Monitoring Lab](https://github.com/blackswanunagi/pfsense-suricata-network-monitoring-lab)** — LAN/DMZ segmentation with pfSense, Suricata IDS (ET Open) detecting an Nmap scan, and correlation of firewall logs with IDS alerts.
-- **[Web Application Security Labs](https://github.com/blackswanunagi/web-app-security-labs)** — broken access control (IDOR, unprotected admin panel), file upload, XSS, LFI and command injection: exploitation in authorised labs, root cause, server-side fixes and regression tests.
+- **[DevSecOps pipeline for InvoicePay](https://github.com/raniasellak/AI-Powered-DevSecOps-Pipeline-for-Python/pull/11)** (team project) — my contribution: GitHub Actions pipeline with Ruff, pytest, Bandit (SAST) and pip-audit (dependency scanning), plus auth, RBAC and token tests.
+- **[Cloud Security Labs](https://github.com/blackswanunagi/cloud-security-labs)** — OpenStack installation and administration (Keystone, Nova, Neutron, Glance, Horizon) and cloud security exercises.
+- **[Web Application Security Labs](https://github.com/blackswanunagi/web-app-security-labs)** — authentication (OWASP ASVS V6), HTTP analysis, broken access control, file upload, XSS, LFI and command injection: exploitation in authorised labs, root cause, server-side fixes and regression tests.
 - **[LSB Steganography & Steganalysis](https://github.com/blackswanunagi/lsb-steganography-steganalysis)** — hide, extract and detect messages in images and audio (Python), PSNR quality measurement, and a React web app · [🌐 live demo](https://blackswanunagi.github.io/lsb-steganography-steganalysis/)
 
 ### 🧰 Tools I work with
