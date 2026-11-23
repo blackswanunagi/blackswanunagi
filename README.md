@@ -14,6 +14,7 @@ ELK-based SIEM lab built during my SOC internship: Winlogbeat + Sysmon collectio
 
 ### 📂 Other projects
 
+- **[pfSense + Suricata Network Monitoring Lab](https://github.com/blackswanunagi/pfsense-suricata-network-monitoring-lab)** — LAN/DMZ segmentation with pfSense, Suricata IDS (ET Open) detecting an Nmap scan, and correlation of firewall logs with IDS alerts.
 - **[Web Application Security Labs](https://github.com/blackswanunagi/web-app-security-labs)** — broken access control (IDOR, unprotected admin panel), file upload, XSS, LFI and command injection: exploitation in authorised labs, root cause, server-side fixes and regression tests.
 - **[LSB Steganography & Steganalysis](https://github.com/blackswanunagi/lsb-steganography-steganalysis)** — Python tools to hide text in images and detect LSB embedding in images and audio.
 
